@@ -1,6 +1,34 @@
 # Bem-vindo ao Repositório de Códigos Mágicos!
 
-![Código Mágico](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4801105-Animation&psig=AOvVaw1c0Zc7pHedT_bfekeqlzn2&ust=1698121307092000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODsy_yoi4IDFQAAAAAdAAAAABAR)
+<details>
+<summary>Clique para ver a animação</summary>
+
+<div id="blinking-text">Blinking Text!</div>
+
+<script>
+  function blinkText() {
+    const text = document.getElementById('Wellcome Mage!');
+    text.style.visibility = (text.style.visibility === 'hidden') ? 'visible' : 'hidden';
+  }
+  setInterval(blinkText, 500); // Alterna a visibilidade a cada 500ms (meio segundo)
+</script>
+
+</details>
+
+🧙‍♂️🪄✨ **Invocando todos os magos da programação!** ✨🪄🧙‍♂️
+A tag <details> permitirá que os usuários cliquem para expandir a animação.
+
+Personalize a Animação:
+
+Você pode personalizar a animação e o estilo conforme desejar. No exemplo acima, usamos uma animação de texto piscante, mas você pode criar algo mais complexo, como um jogo simples ou uma animação relacionada ao seu repositório.
+
+Lembre-se de que as animações em JavaScript podem não funcionar quando alguém simplesmente visualiza o arquivo README no repositório no GitHub, pois o GitHub não executa JavaScript nesses casos. No entanto, os usuários podem clonar o repositório e abrir o arquivo HTML localmente para ver a animação em ação.
+
+
+
+
+
+
 
 🧙‍♂️🪄✨ **Invocando todos os magos da programação!** ✨🪄🧙‍♂️
 
