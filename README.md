@@ -1,15 +1,6 @@
 # Bem-vindo ao Repositório de Códigos Mágicos!
 
 🧙‍♂️🪄✨ **Invocando todos os magos da programação!** ✨🪄🧙‍♂️
-A tag <details> permitirá que os usuários cliquem para expandir a animação.
-
-Personalize a Animação:
-
-Você pode personalizar a animação e o estilo conforme desejar. No exemplo acima, usamos uma animação de texto piscante, mas você pode criar algo mais complexo, como um jogo simples ou uma animação relacionada ao seu repositório.
-
-Lembre-se de que as animações em JavaScript podem não funcionar quando alguém simplesmente visualiza o arquivo README no repositório no GitHub, pois o GitHub não executa JavaScript nesses casos. No entanto, os usuários podem clonar o repositório e abrir o arquivo HTML localmente para ver a animação em ação.
-
-
 
 
 
