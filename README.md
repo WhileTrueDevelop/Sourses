@@ -1,20 +1,5 @@
 # Bem-vindo ao Repositório de Códigos Mágicos!
 
-<details>
-<summary>Clique para ver a animação</summary>
-
-<div id="blinking-text">Blinking Text!</div>
-
-<script>
-  function blinkText() {
-    const text = document.getElementById('Wellcome Mage!');
-    text.style.visibility = (text.style.visibility === 'hidden') ? 'visible' : 'hidden';
-  }
-  setInterval(blinkText, 500); // Alterna a visibilidade a cada 500ms (meio segundo)
-</script>
-
-</details>
-
 🧙‍♂️🪄✨ **Invocando todos os magos da programação!** ✨🪄🧙‍♂️
 A tag <details> permitirá que os usuários cliquem para expandir a animação.
 
